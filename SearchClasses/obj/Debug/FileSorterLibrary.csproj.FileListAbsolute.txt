@@ -1,0 +1,5 @@
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\SearchClasses\bin\Debug\FileSorterLibrary.dll
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\SearchClasses\bin\Debug\FileSorterLibrary.pdb
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\SearchClasses\obj\Debug\FileSorterLibrary.dll
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\SearchClasses\obj\Debug\FileSorterLibrary.pdb
+C:\Users\Satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\obj\Debug\FileSorterLibrary.csprojResolveAssemblyReference.cache

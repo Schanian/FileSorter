@@ -1,0 +1,5 @@
+C:\Users\Satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\bin\Debug\SearchClasses.dll
+C:\Users\Satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\bin\Debug\SearchClasses.pdb
+C:\Users\Satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\obj\Debug\SearchClasses.dll
+C:\Users\Satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\obj\Debug\SearchClasses.pdb
+C:\Users\Satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\obj\Debug\SearchClasses.csprojResolveAssemblyReference.cache

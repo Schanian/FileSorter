@@ -1,0 +1,11 @@
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\bin\Debug\FileSorter.exe.config
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\bin\Debug\FileSorter.exe
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\bin\Debug\FileSorter.pdb
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\bin\Debug\FileSorterLibrary.dll
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\bin\Debug\FileSorterLibrary.pdb
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.Properties.Resources.resources
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.csproj.GenerateResource.Cache
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.exe
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.pdb
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\FileSorter\FileSorter\obj\Debug\FileSorter.StartupScreen.resources

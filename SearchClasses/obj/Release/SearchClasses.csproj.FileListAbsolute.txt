@@ -1,0 +1,4 @@
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\bin\Release\SearchClasses.dll
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\bin\Release\SearchClasses.pdb
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\obj\Release\SearchClasses.dll
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\SearchClasses\obj\Release\SearchClasses.pdb

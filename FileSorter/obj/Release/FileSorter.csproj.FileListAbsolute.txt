@@ -1,0 +1,11 @@
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\bin\Release\FileSorter.exe.config
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\bin\Release\FileSorter.exe
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\bin\Release\FileSorter.pdb
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\bin\Release\SearchClasses.dll
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\bin\Release\SearchClasses.pdb
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\obj\Release\FileSorter.csprojResolveAssemblyReference.cache
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\obj\Release\FileSorter.Form1.resources
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\obj\Release\FileSorter.Properties.Resources.resources
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\obj\Release\FileSorter.csproj.GenerateResource.Cache
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\obj\Release\FileSorter.exe
+c:\users\satnam\documents\visual studio 2013\Projects\FileSorter\FileSorter\obj\Release\FileSorter.pdb
