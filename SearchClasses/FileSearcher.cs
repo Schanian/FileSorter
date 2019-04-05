@@ -156,8 +156,8 @@ namespace FileSorterLibrary
                         {
                             continue;
                         }
-                        IAsyncResult ar = BeginSearcherAsync(directory, extension, includeTempFiles, log, CallbackMethod);
-                        SearchData dataInDir =
+                        //IAsyncResult ar = BeginSearcherAsync(directory, extension, includeTempFiles, log, CallbackMethod);
+                        SearchData dataInDir = _searchDuplicate(directory, extension, includeTempFiles, log);
                         if (dataInDir != null) searchData.Merge(dataInDir);
 
                         if (QuitNow) return searchData;
